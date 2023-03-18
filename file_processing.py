@@ -27,6 +27,7 @@ babiness_df = babiness_df.replace('', np.NaN)
 babiness_df = babiness_df.rename(columns={'word':'Word'})
 babiness_df = babiness_df.loc[:,["Word", "task", "rating", "lexicalCategory",
                                  "phonemes", "totalMorphemes", "concreteness", "babyAVG"]]
+babiness_df = babiness_df.groupby('Word', as_index=False).mean()
 
 esm_df = pd.read_excel('ESM.xlsx')
 esm_df = esm_df.replace('', np.NaN)
