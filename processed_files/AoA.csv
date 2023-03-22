@@ -41,9 +41,9 @@ affectionateness,N,572,-1.5539
 affidavit,N,644,0.0253
 affirm,V,608,0.76
 affliction,N,566,0.3598
-Afghanistan,N,578,0.8041
+afghanistan,N,578,0.8041
 afraid,A,246,2.0508
-Africa,N,380,2.0702
+africa,N,380,2.0702
 after,F,218,2.8829
 again,F,197,2.8865
 against,F,288,2.7687
@@ -59,12 +59,12 @@ airbrush,V,624,-1.5539
 airman,N,437,0.1931
 alarm,N,319,1.3361
 alarm,V,412,1.1959
-Alaska,N,511,-1.5539
-Albania,N,593,-0.2518
+alaska,N,511,-1.5539
+albania,N,593,-0.2518
 alcoholic,N,583,0.8189
 alert,V,488,0.9567
 algebra,N,492,0.3034
-Algeria,N,559,0.837
+algeria,N,559,0.837
 alive,A,277,1.8021
 all,F,180,2.1668
 alligator,N,332,0.1943
@@ -81,7 +81,7 @@ amazement,N,414,1
 ambience,N,631,0.0492
 amble,V,507,0.3711
 amend,V,536,0.6665
-America,N,343,-1.5539
+america,N,343,-1.5539
 amusement,N,357,1.0418
 an,F,204,3.5206
 anarchy,N,596,0.616
@@ -89,15 +89,15 @@ anatomy,N,585,0.9201
 and,F,164,4.4589
 anger,N,288,1.7161
 anger,V,351,0.8839
-Anglican,N,541,0.3032
-Anglicism,N,600,-1.5539
-Anglo Catholic,N,614,-1.5539
+anglican,N,541,0.3032
+anglicism,N,600,-1.5539
+anglo catholic,N,614,-1.5539
 angry,A,263,1.8238
 announce,V,414,1.8723
 annoy,V,311,1.2455
 annoyance,N,399,0.7889
 another,F,256,2.8458
-Antarctic,N,460,0.0492
+antarctic,N,460,0.0492
 antelope,N,446,0.7059
 anthropology,N,627,0.4548
 anticipate,V,524,1.3292
@@ -116,15 +116,15 @@ appliance,N,509,0.7964
 appreciate,V,473,1.5423
 appreciation,N,494,1.0835
 aquamarine,N,576,-0.1079
-Arabic,N,583,0.6964
+arabic,N,583,0.6964
 arcade,N,463,0.6042
 arch,N,353,1.2357
 arch,V,471,0.9232
 archaeologist,N,562,0.5988
 archaeology,N,568,0.9619
 architect,N,524,1.2669
-Arctic,N,452,0.2095
-Argentina,N,517,0.8156
+arctic,N,452,0.2095
+argentina,N,517,0.8156
 argue,V,319,2.0755
 around,F,277,2.48
 arrange,V,359,1.9477
@@ -147,7 +147,7 @@ assume,V,492,2.0412
 astrology,N,562,0.316
 at,F,185,3.7479
 ate,V,189,2.4617
-Atheism,N,602,-0.2518
+atheism,N,602,-0.2518
 attack,N,385,2.0462
 attack,V,387,1.8458
 attempt,N,380,2.0416
@@ -157,8 +157,8 @@ attendance,N,353,1.1219
 attest,V,608,0.2529
 auburn,N,490,0.0682
 audiology,N,631,-1.5539
-Australia,N,395,1.6075
-Austria,N,498,0.9671
+australia,N,395,1.6075
+austria,N,498,0.9671
 autocracy,N,637,-0.1367
 avail,N,597,0.4548
 avarice,N,610,0.1271
@@ -194,7 +194,7 @@ bandage,V,263,0.5667
 bang,V,199,1.2095
 bank clerk,N,475,-1.5539
 bank manager,N,482,-1.5539
-Baptist,N,551,0.4955
+baptist,N,551,0.4955
 bare,A,329,1.5752
 bare,V,454,0.6502
 barmaid,N,512,0.1271
@@ -227,7 +227,7 @@ behave,V,227,1.6636
 behind,F,227,2.4594
 beige,N,452,-0.301
 being,N,456,1.9649
-Belgium,N,473,1.0026
+belgium,N,473,1.0026
 believe,V,336,2.6308
 belle,N,524,0.4192
 belong,V,332,1.9183
@@ -263,7 +263,7 @@ blush,V,385,1.0349
 boa constrictor,N,519,-1.5539
 boat,V,442,0.1089
 boil,V,294,1.6325
-Bolivia,N,604,0.2253
+bolivia,N,604,0.2253
 bomb,N,399,1.6146
 bomb,V,433,1.0993
 bomb aimer,N,547,-1.5539
@@ -284,7 +284,7 @@ box,V,340,-0.0487
 boy,N,150,2.5442
 brain,N,326,1.8743
 braise,V,551,-0.4089
-Brazil,N,510,1.0095
+brazil,N,510,1.0095
 break,N,376,1.4811
 break,V,230,2.3601
 break and enter,V,555,-1.5539
@@ -298,7 +298,7 @@ brief,A,439,1.6398
 bright,A,292,1.9296
 brighten,V,372,0.6866
 bring,V,247,2.7098
-Britain,N,316,2.3672
+britain,N,316,2.3672
 broad,A,376,1.7067
 broaden,V,445,0.7846
 bronze,N,448,1.211
@@ -308,24 +308,24 @@ brush,N,198,1.2184
 brush,V,236,1.3755
 brutal,A,488,1.1237
 brutality,N,544,0.7846
-Buddha,N,609,0.42
-Buddhism,N,611,0.0899
-Buddhist,N,611,0.6107
+buddha,N,609,0.42
+buddhism,N,611,0.0899
+buddhist,N,611,0.6107
 budgerigar,N,376,-0.301
 buffalo,N,411,0.871
 bug,N,383,0.6866
 build,V,251,2.3842
 builder,N,343,1.0394
 built,A,292,2.3842
-Bulgaria,N,578,0.1931
+bulgaria,N,578,0.1931
 bull,N,286,1.44
 bully,N,349,0.6042
 bully,V,359,0.943
 bungalow,N,380,0.887
 bungee jump,V,625,-1.5539
-Burma,N,578,0.5024
+burma,N,578,0.5024
 burst,V,294,1.5809
-Burundi,N,644,-0.5528
+burundi,N,644,-0.5528
 bury,V,313,1.7004
 bus driver,N,254,-1.5539
 businessman,N,482,1.3662
@@ -342,7 +342,7 @@ calm,A,395,1.4042
 calm,N,482,0.9318
 camel,N,303,1.3994
 can,V,197,3.598
-Canada,N,404,1.3786
+canada,N,404,1.3786
 canary,N,326,0.5106
 cannot,V,267,2.394
 car maker,N,460,-1.5539
@@ -356,14 +356,14 @@ carve,V,362,1.2911
 cast,V,471,1.6146
 caste,N,597,0.76
 categorise,V,595,0.301
-Catholic,N,477,1.1973
-Catholicism,N,536,0.1461
+catholic,N,477,1.1973
+catholicism,N,536,0.1461
 cause,V,416,2.2349
 cerise,N,551,-1.2218
 certain,A,372,2.0215
 certainly,ADV,385,2.3562
-Ceylon,N,534,-1.5539
-Chad,N,640,0.4456
+ceylon,N,534,-1.5539
+chad,N,640,0.4456
 chance,N,368,2.237
 change,N,338,2.3256
 change,V,332,2.663
@@ -394,10 +394,10 @@ chic,N,562,0.2095
 child,N,221,3.0347
 childminder,N,521,-1.5539
 children,N,226,3.0347
-Chile,N,575,0.7474
+chile,N,575,0.7474
 chill,N,376,0.8228
 chimpanzee,N,376,0.5328
-China,N,445,1.723
+china,N,445,1.723
 chinchilla,N,570,-0.6508
 chipmunk,N,564,-0.9518
 choice,N,379,2.0637
@@ -406,14 +406,14 @@ chop,N,333,0.7014
 chop,V,297,1.29
 chorus,N,379,1.0143
 chose,V,331,2.2538
-Christian,N,389,1.3746
-Christian Science,N,607,-1.5539
-Christian Scientist,N,616,-1.5539
-Christianity,N,432,1.152
+christian,N,389,1.3746
+christian science,N,607,-1.5539
+christian scientist,N,616,-1.5539
+christianity,N,432,1.152
 chuckle,V,355,0.8041
-Church of England,N,392,-1.5539
-Church of Scotland,N,532,-1.5539
-Church of Wales,N,562,-1.5539
+church of england,N,392,-1.5539
+church of scotland,N,532,-1.5539
+church of wales,N,562,-1.5539
 cigarette,N,264,1.8523
 cinder,N,325,0.2095
 circle,V,340,1.0503
@@ -450,7 +450,7 @@ collate,V,607,-0.0223
 collect,V,346,1.8447
 college,N,484,2.0124
 colour,N,214,2.0464
-Columbia,N,598,-1.5539
+columbia,N,598,-1.5539
 comb,V,217,0.9484
 combine,V,474,1.8227
 come,V,244,3.2931
@@ -459,8 +459,8 @@ comfort,V,389,1.3246
 commend,V,532,0.6395
 common,A,416,2.2755
 communicate,V,493,1.3775
-Communism,N,613,1.1486
-Communist,N,611,1.4302
+communism,N,613,1.1486
+communist,N,611,1.4302
 compassion,N,568,0.9405
 compensate,V,585,1.0835
 complain,V,402,1.7142
@@ -481,15 +481,15 @@ condemnation,N,570,0.6964
 conduct,V,448,1.5802
 confectioner,N,478,-0.6576
 confirm,V,484,1.6475
-Confucianism,N,648,-0.6576
+confucianism,N,648,-0.6576
 confuse,V,441,1.3153
 confuser,N,560,-1.5539
-Congo,N,570,0.4955
+congo,N,570,0.4955
 congregate,V,513,0.3802
-Congregational,N,590,-0.6576
-Congregationalist,N,605,-0.4685
+congregational,N,590,-0.6576
+congregationalist,N,605,-0.4685
 connect,V,422,1.6044
-Conservative,N,542,1.211
+conservative,N,542,1.211
 consider,V,435,2.3189
 console,V,510,0.7597
 constituency,N,598,1.2154
@@ -508,7 +508,7 @@ cookery,N,318,0.5599
 cool,V,279,1.4108
 cope,V,435,1.6404
 copious,A,596,0.4373
-Corfu,N,611,-1.5539
+corfu,N,611,-1.5539
 cosmology,N,639,-0.2147
 cost,N,428,2.258
 cost,V,407,1.7406
@@ -546,7 +546,7 @@ crow,N,279,-1.5539
 cruel,A,303,1.4504
 cruelty,N,361,1.2936
 cry,N,159,1.4681
-Cuba,N,588,1.255
+cuba,N,588,1.255
 cube,V,553,0.2385
 cuddle,V,211,0.5599
 cull,N,611,-0.4089
@@ -555,9 +555,9 @@ culture,N,568,1.91
 cure,V,392,1.3303
 curl,V,320,1.1833
 cycle,V,273,0.7889
-Cyprus,N,575,1.0237
-Czech Republic,N,622,-1.5539
-Czechoslovakia,N,590,0.8116
+cyprus,N,575,1.0237
+czech republic,N,622,-1.5539
+czechoslovakia,N,590,0.8116
 daffodil,N,271,0.3492
 dainty,A,348,0.2648
 dairyman,N,404,-0.6576
@@ -578,7 +578,7 @@ debase,V,620,0.3802
 debt,N,521,1.515
 deceitful,A,519,0.1072
 deceive,V,512,1.1219
-December,N,295,1.579
+december,N,295,1.579
 deception,N,540,0.9263
 decide,V,363,2.3983
 declare,V,471,1.7423
@@ -601,9 +601,9 @@ delighted,A,412,1.5388
 demand,V,399,1.9034
 demented,A,577,0.5729
 democracy,N,612,1.7497
-Democrat,N,635,1.1801
+democrat,N,635,1.1801
 demolish,V,485,0.871
-Denmark,N,513,-1.5539
+denmark,N,513,-1.5539
 denote,V,582,0.5105
 dent,N,377,0.1621
 dentist,N,295,0.9646
@@ -734,17 +734,17 @@ easiness,N,444,-0.6576
 east,N,366,1.5091
 easy,A,267,0.954
 eat,V,167,2.4617
-eau de Nil,N,614,-1.5539
+eau de nil,N,614,-1.5539
 echo,N,359,1.0856
 echo,V,399,1.263
 ecstasy,N,595,0.7966
 editor,N,551,1.5654
 educate,V,423,1.2577
 egotism,N,640,-0.0223
-Egypt,N,469,1.5136
+egypt,N,469,1.5136
 either,A,359,1.6755
 eject,V,526,0.525
-El Salvador,N,625,-1.5539
+el salvador,N,625,-1.5539
 electrical,A,427,1.2577
 electrical science,N,629,-1.5539
 electrician,N,463,0.5105
@@ -770,8 +770,8 @@ energy,N,380,2.3167
 enforce,V,525,1.2154
 engineer,N,522,1.4938
 engineering,N,529,1.5519
-England,N,275,-1.5539
-English,N,292,1.9153
+england,N,275,-1.5539
+english,N,292,1.9153
 enjoy,V,284,2.1714
 enjoyment,N,340,1.0795
 enlarge,V,458,1.129
@@ -785,15 +785,15 @@ envy,N,456,1.1363
 envy,V,469,1.0896
 epic,N,585,0.4456
 epidemic,N,551,0.8156
-Episcopalian,N,650,-0.3468
+episcopalian,N,650,-0.3468
 erect,V,496,1.0856
 escape,N,397,1.4763
 escape,V,359,1.7802
 estate,N,507,1.673
 estimator,N,612,-1.2218
-Estonia,N,627,-1.5539
+estonia,N,627,-1.5539
 etch,V,576,0.4713
-Ethiopia,N,585,0.6222
+ethiopia,N,585,0.6222
 evaluate,V,604,0.9261
 evaporate,V,517,0.9085
 even,F,345,3.1172
@@ -834,7 +834,7 @@ failing,N,509,0.4284
 faint,V,408,0.8153
 faith,N,450,1.7157
 faithfulness,N,513,-0.1739
-Falklands,N,618,-1.5539
+falklands,N,618,-1.5539
 fall,V,210,2.4695
 false,A,399,1.642
 familiar,A,446,1.8142
@@ -843,9 +843,9 @@ far,F,294,2.8039
 farm,N,256,1.9318
 farm,V,357,0.8041
 farmer,N,273,1.9455
-Faroes,N,625,-1.5539
+faroes,N,625,-1.5539
 fascinating,A,530,1.3257
-Fascist,N,618,0.5539
+fascist,N,618,0.5539
 fast,F,258,1.9963
 fate,N,496,1.536
 father,N,185,2.4784
@@ -866,7 +866,7 @@ fetter,V,587,-0.0506
 fettle,N,551,-0.4685
 few,A,292,2.2145
 fewer,A,347,1.4763
-Fianna Fail,N,650,-1.5539
+fianna fail,N,650,-1.5539
 fierceness,N,486,-0.1739
 fight,V,284,2.1535
 fighting,N,290,1.3514
@@ -877,7 +877,7 @@ find,V,258,3.0377
 fine,F,321,1.4984
 finery,N,490,0.1271
 finesse,N,606,0.238
-Finland,N,549,-1.5539
+finland,N,549,-1.5539
 fire,N,189,2.2103
 fire,V,391,1.6816
 fireman,N,294,0.5601
@@ -938,7 +938,7 @@ fraction,N,415,1.1738
 fragile,A,456,1.063
 frail,A,469,0.9801
 frailty,N,538,0.3385
-France,N,423,1.9973
+france,N,423,1.9973
 freeze,V,348,1.6497
 frequency,N,538,1.1989
 friend,N,236,2.5524
@@ -978,8 +978,8 @@ genteel,A,568,0.4548
 gentle,A,346,1.5614
 geology,N,603,0.3385
 gerbil,N,523,-1.5539
-German,N,414,1.8601
-Germany,N,411,1.9124
+german,N,414,1.8601
+germany,N,411,1.9124
 get,V,251,3.3777
 giggle,V,295,1.2095
 ginger,N,359,0.5601
@@ -1001,7 +1001,7 @@ go,V,221,3.4617
 goat,N,282,1.4513
 godmother,N,383,0.238
 gold,N,305,1.9444
-Gold Coast,N,572,-1.5539
+gold coast,N,572,-1.5539
 goldfish,N,269,0.3909
 golf,V,463,0.4547
 golfer,N,458,0.8774
@@ -1026,12 +1026,12 @@ gratitude,N,460,1.0416
 graze,N,315,-0.4078
 graze,V,332,1.2243
 great,A,295,2.9356
-Great Britain,N,348,-1.5539
-Grecian,N,582,0.2095
-Greece,N,522,1.2482
-Greek Orthodox,N,639,-1.5539
-Green Party,N,641,-1.5539
-Greenland,N,542,-1.5539
+great britain,N,348,-1.5539
+grecian,N,582,0.2095
+greece,N,522,1.2482
+greek orthodox,N,639,-1.5539
+green party,N,641,-1.5539
+greenland,N,542,-1.5539
 greet,V,413,1.4946
 grew,V,297,2.5333
 grey,N,284,1.0792
@@ -1055,7 +1055,7 @@ guide,V,405,1.409
 guilt,N,469,1.5621
 guilty,A,465,1.7053
 guinea pig,N,414,-1.5539
-Gujarati,N,652,-1.5539
+gujarati,N,652,-1.5539
 gunsmith,N,588,-0.5528
 gusto,N,575,0.2529
 had,V,251,4.1311
@@ -1092,7 +1092,7 @@ healthy,A,366,1.6086
 hear,V,253,2.7039
 heat,N,299,2.0416
 heat,V,322,1.4444
-Hebrew,N,533,0.8476
+hebrew,N,533,0.8476
 hedgehog,N,366,0.316
 heighten,V,502,0.7803
 held,V,306,2.6675
@@ -1115,8 +1115,8 @@ hike,V,432,0.5539
 him,F,221,3.4006
 himself,F,310,2.7068
 hinder,V,450,0.6812
-Hindi,N,633,-0.1739
-Hindu,N,611,0.42
+hindi,N,633,-0.1739
+hindu,N,611,0.42
 hint,N,448,1.3235
 hippopotamus,N,355,0.1271
 hire,V,471,1.4915
@@ -1127,14 +1127,14 @@ hither,F,508,0.1931
 hole,N,221,1.9628
 holiday,N,297,1.9333
 holiday,V,381,-0.2115
-Holland,N,456,1.129
+holland,N,456,1.129
 home,F,217,2.1983
 home,N,269,2.5322
 hone,V,577,-0.0757
 honed,A,585,-0.0757
 honest,A,357,1.556
 honesty,N,370,0.9458
-Hong Kong,N,529,-1.5539
+hong kong,N,529,-1.5539
 honour,V,488,1.1485
 hoot,V,392,0.4955
 hoover,V,437,-0.4685
@@ -1156,10 +1156,10 @@ howsoever,F,557,-1.2218
 huff,N,404,-0.1739
 hug,V,245,1.0546
 huge,A,325,2.0338
-Humanitarianism,N,650,-0.2147
+humanitarianism,N,650,-0.2147
 humanity,N,611,1.2709
 humour,N,478,1.3796
-Hungary,N,551,-1.5539
+hungary,N,551,-1.5539
 hunt,V,366,1.4581
 hurdle,V,497,-0.2986
 hurl,V,441,1.0973
@@ -1168,15 +1168,15 @@ hurt,N,251,0.2385
 hurt,V,258,1.8278
 hurtful,A,407,0.0253
 husband,N,328,2.1884
-Hutterite,N,652,-1.5539
+hutterite,N,652,-1.5539
 hydrology,N,652,-1.5539
 hyena,N,513,0.616
 hyperactivity,N,624,-1.5539
-I,F,169,4.0441
-Iberia,N,626,-0.4685
+i,F,169,4.0441
+iberia,N,626,-0.4685
 ice,N,253,1.7221
 ice,V,377,0.4953
-Iceland,N,496,0.3802
+iceland,N,496,0.3802
 idea,N,348,2.6004
 idiocy,N,579,0.2253
 if,F,236,3.4789
@@ -1199,8 +1199,8 @@ in,F,205,4.2673
 inch,N,308,1.7802
 including,A,412,2.1081
 increase,V,407,2.3641
-Independent,N,533,-0.1737
-India,N,478,1.7769
+independent,N,533,-0.1737
+india,N,478,1.7769
 indifference,N,582,1.0715
 indigo,N,542,0.1614
 infatuate,V,606,-1.5539
@@ -1236,33 +1236,33 @@ invigorate,V,577,0.2529
 invite,N,394,0.2923
 invite,V,353,1.8157
 involve,V,473,2.3245
-IRA,N,596,1.3393
-Iran,N,613,1.0282
-Iraq,N,609,0.7513
-Ireland,N,437,1.5897
-Irish,N,430,0.1072
+ira,N,596,1.3393
+iran,N,613,1.0282
+iraq,N,609,0.7513
+ireland,N,437,1.5897
+irish,N,430,0.1072
 irk,V,583,0.0682
 iron,N,308,1.8516
 iron,V,290,0.6714
 irritability,N,519,0.2923
 is,V,193,4.5842
-Islam,N,626,0.8871
-Israel,N,547,1.6519
+islam,N,626,0.8871
+israel,N,547,1.6519
 it,F,187,4.048
-Italy,N,469,1.5128
+italy,N,469,1.5128
 its,F,243,3.1909
 itself,F,316,2.4489
 jaguar,N,493,0.7016
-Jamaica,N,538,0.8189
-January,N,302,1.6086
-Japan,N,467,1.4803
+jamaica,N,538,0.8189
+january,N,302,1.6086
+japan,N,467,1.4803
 jealousy,N,448,1.1621
-Jehovah's Witness,N,607,-1.5539
-Jersey,N,527,1.0048
-Jew,N,473,1.9284
+jehovah's witness,N,607,-1.5539
+jersey,N,527,1.0048
+jew,N,473,1.9284
 jeweller,N,435,0.1461
-Jewish,N,480,1.6646
-Jewish Orthodox,N,624,-1.5539
+jewish,N,480,1.6646
+jewish orthodox,N,624,-1.5539
 job,N,327,2.5228
 jog,V,551,0.661
 join,V,359,2.1611
@@ -1271,7 +1271,7 @@ joint,N,402,1.4311
 joke,V,364,1.0525
 jonquil,N,603,-1.5539
 journalist,N,534,1.4991
-Judaism,N,631,0.5391
+judaism,N,631,0.5391
 judge,N,448,1.7683
 judge,V,458,1.6033
 judo,N,536,0.2788
@@ -1282,7 +1282,7 @@ kangaroo,N,368,0.4281
 keenness,N,467,-0.1079
 keep,V,282,2.8188
 ken,N,544,-1.5539
-Kenya,N,560,0.7642
+kenya,N,560,0.7642
 khaki,N,469,0.0043
 kick,V,243,1.6239
 kid,N,297,1.8967
@@ -1302,9 +1302,9 @@ knock,N,290,0.8837
 knock,V,262,1.7299
 know,V,275,3.3271
 koala,N,486,-0.3468
-Korea,N,622,0.8439
+korea,N,622,0.8439
 labour,N,480,1.9722
-Labour,N,538,2.2337
+labour,N,538,2.2337
 labourer,N,491,1.1655
 land,N,323,2.4125
 landlord,N,432,1.4622
@@ -1317,8 +1317,8 @@ lark,N,390,0.586
 last,A,275,-1.5539
 late,A,277,2.7996
 later,F,325,2.7996
-Latter-day Saint,N,641,-1.5539
-Latvia,N,633,-1.5539
+latter-day saint,N,641,-1.5539
+latvia,N,633,-1.5539
 laugh,N,230,1.4032
 lavender,N,374,0.1931
 lay,V,344,2.083
@@ -1330,7 +1330,7 @@ learn,V,280,2.4894
 learnt,A,324,2.4894
 lease,V,560,0.4099
 least,F,359,2.3968
-Lebanon,N,624,1.0026
+lebanon,N,624,1.0026
 lecture,V,533,1.0327
 lecturer,N,549,1.1126
 left,A,280,1.8216
@@ -1339,13 +1339,13 @@ lengthen,V,432,0.7924
 leopard,N,421,0.9261
 less,F,298,2.3784
 let,V,425,2.6352
-Liberal,N,590,1.3141
-Liberal Democrat,N,643,-1.5539
+liberal,N,590,1.3141
+liberal democrat,N,643,-1.5539
 librarian,N,445,0.7016
-Libya,N,612,0.716
+libya,N,612,0.716
 lie,N,286,1.2986
 lie,V,277,1.3106
-Liechtenstein,N,641,-0.1367
+liechtenstein,N,641,-0.1367
 life,N,335,2.9214
 lift,V,277,1.9453
 light,V,295,1.7303
@@ -1358,11 +1358,11 @@ linger,V,474,1.0795
 link,V,452,1.6181
 liquid,A,368,1.0568
 liquid,N,366,1.2786
-Lisbon,N,612,-1.5539
+lisbon,N,612,-1.5539
 listen,V,266,2.2489
 listening,N,287,2.2489
 lit,V,287,
-Lithuania,N,630,-1.5539
+lithuania,N,630,-1.5539
 little,A,220,2.6514
 live,V,297,2.7189
 lizard,N,421,0.6448
@@ -1376,7 +1376,7 @@ logger,N,582,-0.301
 lonely,A,396,1.4556
 long,A,277,2.7188
 look,V,238,3.1303
-Loony Party,N,641,-1.5539
+loony party,N,641,-1.5539
 lorry,N,273,1.1219
 lorry driver,N,290,-1.5539
 lose,V,286,2.5315
@@ -1389,8 +1389,8 @@ loving,A,330,1.1881
 low,A,290,2.2596
 lumberjack,N,521,-0.2147
 lust,N,610,1.012
-Lutherism,N,648,-1.5539
-Luxembourg,N,572,-1.5539
+lutherism,N,648,-1.5539
+luxembourg,N,572,-1.5539
 machine,N,361,2.09
 machine tool operator,N,588,-1.5539
 machinist,N,549,-0.4685
@@ -1407,10 +1407,10 @@ main,A,383,2.2861
 maintenance,N,544,1.3662
 maintenance man,N,570,-1.5539
 make,V,273,3.3688
-Malaya,N,596,0.4548
-Malaysia,N,613,0.4639
+malaya,N,596,0.4548
+malaysia,N,613,0.4639
 malice,N,566,0.8475
-Malta,N,564,0.2095
+malta,N,564,0.2095
 mam,N,286,0.42
 man,N,176,3.213
 manage,V,426,2.1068
@@ -1434,7 +1434,7 @@ mathematics,N,439,1.4202
 matter,N,404,2.4461
 mature,A,527,1.152
 mature,V,525,0.9203
-Mauritius,N,628,-0.1739
+mauritius,N,628,-0.1739
 mauve,N,482,0.1271
 may,V,308,3.1588
 maybe,F,310,2.1319
@@ -1456,9 +1456,9 @@ mend,V,297,0.9263
 menial,A,564,0.1461
 meritocracy,N,648,-0.6576
 metallurgy,N,646,-0.1367
-Methodism,N,592,-0.6576
-Methodist,N,527,0.0253
-Mexico,N,542,1.4183
+methodism,N,592,-0.6576
+methodist,N,527,0.0253
+mexico,N,542,1.4183
 miaow,V,245,-1.5539
 mice,N,226,1.2658
 microbiology,N,646,-0.1079
@@ -1483,33 +1483,33 @@ mix,V,325,1.7062
 moan,V,372,1.1219
 model,V,471,0.7059
 modernise,V,560,0.699
-Mohammedanism,N,648,-1.2218
+mohammedanism,N,648,-1.2218
 molecular,A,641,0.48
 molecular biology,N,650,-1.5539
 momentum,N,598,1
-Monaco,N,605,-1.5539
+monaco,N,605,-1.5539
 monarchy,N,506,0.6284
-Mongolia,N,596,-0.0757
+mongolia,N,596,-0.0757
 monk,N,445,0.962
 monkey,N,269,1.2577
-Monster Raving Loony,N,644,-1.5539
+monster raving loony,N,644,-1.5539
 month,N,297,2.5002
 mood,N,381,1.7166
 moose,N,497,-0.1067
 mop,V,331,0.7557
 moral,N,519,0.9025
 more,F,228,3.0871
-Mormon,N,635,-0.1079
+mormon,N,635,-0.1079
 morning,N,213,2.4952
-Morocco,N,590,0.4378
+morocco,N,590,0.4378
 most,F,286,2.456
 motion,N,419,1.5996
 motivate,V,570,1.0191
 mould,V,476,0.8837
 move,V,282,2.631
 movement,N,346,2.3987
-Mozambique,N,631,0.4639
-MP,N,549,1.2603
+mozambique,N,631,0.4639
+mp,N,549,1.2603
 much,F,295,3.457
 muddle,N,329,0.6866
 mug,V,568,0.0694
@@ -1518,8 +1518,8 @@ murder,V,426,1.3955
 muse,V,575,0.5185
 museum,N,426,1.5587
 musician,N,402,1.1671
-Muslim,N,622,0.7597
-Muslim League,N,652,-1.5539
+muslim,N,622,0.7597
+muslim league,N,652,-1.5539
 must,V,273,2.9652
 mustard,N,331,0.6714
 my,F,189,3.4173
@@ -1529,7 +1529,7 @@ name,N,245,2.5262
 name,V,312,1.7638
 narrow,V,426,1.1753
 nasty,A,249,1.3916
-Nationalist,N,637,0.9143
+nationalist,N,637,0.9143
 natural,A,424,2.1965
 naturally,ADV,465,1.8437
 navigator,N,523,0.0043
@@ -1540,31 +1540,31 @@ necessary,A,402,2.2094
 need,V,329,2.7452
 neighbourliness,N,523,-0.7696
 neither,F,372,1.5382
-Nepal,N,611,0.1271
+nepal,N,611,0.1271
 nervousness,N,478,0.734
-Netherlands,N,536,0.7513
+netherlands,N,536,0.7513
 never,F,301,2.9531
 new,A,239,3.0295
-New Zealand,N,519,-1.5539
+new zealand,N,519,-1.5539
 newsagent,N,394,0.1614
 next,A,269,1.7388
 nice,A,232,2.1782
 niceness,N,372,-0.1739
-Nigeria,N,590,0.985
+nigeria,N,590,0.985
 nightly,ADV,420,0.1931
 nine,NUM,254,1.8684
 no,F,122,-1.5539
 noise,N,217,1.8889
 noisiness,N,340,-0.7696
 nominate,V,560,0.7292
-Non-conformist,N,613,-1.5539
+non-conformist,N,613,-1.5539
 none,F,267,0.9852
 nor,F,366,2.2354
 normally,ADV,413,1.8402
 north,N,372,1.7326
-North Africa,N,547,-1.5539
-North Korea,N,635,-1.5539
-Norway,N,532,0.9232
+north africa,N,547,-1.5539
+north korea,N,635,-1.5539
+norway,N,532,0.9232
 not,F,231,3.7084
 note,N,325,2.0637
 nothing,F,273,2.7026
@@ -1662,19 +1662,19 @@ pageboy,N,394,-1.5539
 pain,N,266,1.9247
 paint,V,238,1.8561
 painter,N,324,1.4771
-Pakistan,N,608,1.2227
+pakistan,N,608,1.2227
 panda,N,452,0.0899
 panther,N,480,0.9201
 paper,N,225,2.3534
 paper,V,370,0.1451
 parachute,V,467,-0.4089
-Paraguay,N,621,0.2095
+paraguay,N,621,0.2095
 parent,N,309,2.5014
 park,N,251,1.8527
 park,V,432,1.3926
-Parliamentarian,N,630,0.1931
+parliamentarian,N,630,0.1931
 parrot,N,337,0.5988
-Parsee,N,652,-1.2218
+parsee,N,652,-1.2218
 part,F,324,0.9976
 part,N,333,2.7573
 part,V,384,1.5098
@@ -1701,13 +1701,13 @@ peel,N,279,0.2385
 peel,V,275,0.9877
 penetrate,V,534,1.237
 penguin,N,392,0.7014
-Pentecostalist,N,650,-1.5539
+pentecostalist,N,650,-1.5539
 people,N,290,3.1711
 perfectly,ADV,411,1.8187
 perhaps,F,355,2.6759
 permit,V,443,1.6353
 person,N,322,2.4197
-Peru,N,596,0.8338
+peru,N,596,0.8338
 peruse,V,609,-0.1739
 pharmaceutics,N,650,-1.5539
 pharmacist,N,603,0.1614
@@ -1738,7 +1738,7 @@ pity,V,415,0.4714
 place,N,329,2.8075
 place,V,394,2.0029
 plague,N,478,0.8579
-Plaid Cymru,N,644,-1.5539
+plaid cymru,N,644,-1.5539
 plan,N,413,2.1302
 plan,V,434,2.2261
 plane,V,522,0.0482
@@ -1755,13 +1755,13 @@ plod,V,471,0.5465
 plumber,N,427,0.5729
 plus,F,317,1.6222
 plutocracy,N,650,-0.6576
-Plutocrat,N,650,-0.4685
+plutocrat,N,650,-0.4685
 poach,V,450,0.6767
 point,N,379,2.6384
 point,V,279,2.1201
 poison,N,370,1.152
 poison,V,413,1.2272
-Poland,N,542,-1.5539
+poland,N,542,-1.5539
 polar bear,N,379,-1.5539
 polecat,N,555,-0.6576
 police,N,292,2.3146
@@ -1777,7 +1777,7 @@ porpoise,N,538,0.3263
 portent,N,628,0.1931
 porter,N,471,1.1416
 portray,V,560,0.943
-Portugal,N,560,0.6107
+portugal,N,560,0.6107
 posh,A,407,0.4456
 possible,A,389,2.5278
 post,N,366,1.9333
@@ -1797,8 +1797,8 @@ predict,V,532,1.459
 prefer,V,435,1.915
 premier,N,590,0.5328
 prepare,V,411,1.9004
-Presbyterian,N,594,-0.4089
-Presbyterianism,N,626,-1.2218
+presbyterian,N,594,-0.4089
+presbyterianism,N,626,-1.2218
 present,A,308,2.1763
 present,N,221,1.2243
 present,V,480,1.9959
@@ -1808,7 +1808,7 @@ pretty,F,273,1.8755
 previous,A,437,1.8674
 price,N,355,2.2058
 price,V,437,0.7559
-Prime Minister,N,499,-1.5539
+prime minister,N,499,-1.5539
 prince,N,305,1.5898
 princess,N,295,1.1237
 printer,N,465,0.8774
@@ -1833,11 +1833,11 @@ prophesy,V,521,0.3711
 prophet,N,488,1.1928
 propose,V,501,1.801
 protect,V,409,1.933
-Protestant,N,510,0.5922
+protestant,N,510,0.5922
 proximity,N,583,0.6561
 prune,V,495,0.4004
-Prussian,N,616,0.1461
-Prussian blue,N,596,-1.5539
+prussian,N,616,0.1461
+prussian blue,N,596,-1.5539
 psychiatry,N,628,1.0546
 psychic,N,626,-0.4685
 psychology,N,628,1.3557
@@ -1859,7 +1859,7 @@ push,V,239,2.0964
 pushiness,N,491,-1.2218
 put,V,256,2.9063
 quad,N,519,-0.7696
-Quaker,N,588,0.1931
+quaker,N,588,0.1931
 quarrel,N,351,1.1292
 query,N,499,0.7202
 quick,A,269,1.8157
@@ -1906,7 +1906,7 @@ red,N,213,1.2455
 redeem,V,546,0.7059
 reduce,V,463,2.0749
 referendum,N,637,0.9201
-Referendum Party,N,652,-1.5539
+referendum party,N,652,-1.5539
 reflect,V,523,1.892
 reform,V,560,0.9903
 refrain,V,544,0.819
@@ -1973,8 +1973,8 @@ road layer,N,491,-1.5539
 roadsweeper,N,389,-1.5539
 roast,V,351,0.9646
 rob,V,346,1.1654
-Roman Catholic,N,480,-1.5539
-Romania,N,598,0.1931
+roman catholic,N,480,-1.5539
+romania,N,598,0.1931
 roof,V,519,0.1451
 roost,N,443,-0.0757
 rose,N,301,1.3281
@@ -1994,9 +1994,9 @@ rule,N,394,2.0943
 runner,N,336,1.4922
 rush,N,412,1.1849
 rush,V,344,1.7067
-Russia,N,512,1.5165
-Russian Orthodox,N,648,-1.5539
-Rwanda,N,650,-0.5528
+russia,N,512,1.5165
+russian orthodox,N,648,-1.5539
+rwanda,N,650,-0.5528
 sad,A,258,1.6882
 sadden,V,430,0.5185
 sadness,N,370,0.9345
@@ -2004,7 +2004,7 @@ safety officer,N,594,-1.5539
 sagacity,N,641,-0.4078
 sage,A,516,-0.2115
 sage,N,588,0.5984
-Sahel,N,646,-1.5539
+sahel,N,646,-1.5539
 sail,V,317,1.3022
 sailor,N,308,1.0715
 salesman,N,463,1.0418
@@ -2012,7 +2012,7 @@ salmon,N,398,1.0896
 sandwich,N,260,1.012
 sat,V,202,2.6999
 satisfy,V,432,1.754
-Saudi Arabia,N,613,-1.5539
+saudi arabia,N,613,-1.5539
 savage,A,467,1.0631
 save,V,336,2.0872
 saw,V,336,0.5395
@@ -2022,9 +2022,9 @@ scarcely,ADV,471,1.4907
 scarlet,N,409,-0.0768
 scientist,N,512,1.7901
 scold,V,392,3.8465
-Scotland,N,357,-1.5539
-Scottish,A,383,1.3107
-Scottish Democrat,N,652,-1.5539
+scotland,N,357,-1.5539
+scottish,A,383,1.3107
+scottish democrat,N,652,-1.5539
 scoundrel,N,465,0.2253
 scour,V,469,0.6665
 scowl,V,432,0.7384
@@ -2038,7 +2038,7 @@ scrutinise,V,592,0.6021
 sculpt,V,590,0.0682
 sculptor,N,564,0.716
 scurry,V,536,0.6866
-SDP,N,650,-1.5539
+sdp,N,650,-1.5539
 sea,N,221,2.2388
 seal,N,376,1.1537
 seal,V,415,1.2577
@@ -2069,12 +2069,12 @@ session,N,529,1.6093
 set,N,381,2.0181
 set,V,383,2.4977
 seven,NUM,239,2.0763
-Seventh Day Adventist,N,646,-1.5539
+seventh day adventist,N,646,-1.5539
 several,F,385,2.3812
 severe,A,432,1.5533
 severity,N,512,0.6335
 sew,V,282,1.0503
-Seychelles,N,622,-0.2147
+seychelles,N,622,-0.2147
 shake,V,284,2.1199
 shall,V,288,2.3618
 shame,N,366,1.3694
@@ -2086,7 +2086,7 @@ sheep,N,208,1.6033
 sheetmetal,N,577,-1.5539
 sheetmetal worker,N,597,-1.5539
 shelter,N,385,1.4165
-Shinto,N,648,-0.9586
+shinto,N,648,-0.9586
 shipbuilder,N,491,0.3385
 shipwright,N,581,-0.7696
 shock,V,413,1.4969
@@ -2114,15 +2114,15 @@ shuffle,V,394,1.0715
 shut,V,260,1.8544
 shy,A,286,1.2271
 shyness,N,366,0.5599
-Siam,N,616,-1.5539
-Sicily,N,590,0.7767
+siam,N,616,-1.5539
+sicily,N,590,0.7767
 side,N,295,2.6579
 sift,V,454,0.5988
 sight,N,331,2.0067
 sign,N,342,2.1446
 signal,N,364,1.7773
 signal,V,396,1.1328
-Sikh,N,626,0.3909
+sikh,N,626,0.3909
 silence,V,460,0.8964
 silliness,N,381,0.0043
 silly,A,299,1.6567
@@ -2132,11 +2132,11 @@ simple,A,336,2.2398
 since,F,357,2.2314
 sinfulness,N,514,-0.2147
 sing,V,221,1.8954
-Singapore,N,570,0.6866
+singapore,N,570,0.6866
 single,A,379,2.1482
 sink,N,236,1.1638
 sink,V,318,1.6975
-Sinn Fein,N,635,-1.5539
+sinn fein,N,635,-1.5539
 sister,N,208,2.0566
 site,N,445,1.8967
 six,NUM,232,2.3263
@@ -2164,7 +2164,7 @@ slide,V,247,1.5437
 slim,V,516,-0.0757
 slipper,N,251,0.9458
 sloth,N,577,0.3263
-Slovakia,N,646,-1.5539
+slovakia,N,646,-1.5539
 slowly,ADV,284,2.1206
 smack,N,215,0.0482
 smack,V,234,0.7765
@@ -2183,9 +2183,9 @@ snowball,V,256,-0.0757
 so,F,243,3.3594
 sob,V,292,1.0349
 social,A,510,2.604
-Social Democrat,N,644,-1.5539
+social democrat,N,644,-1.5539
 social worker,N,635,-1.5539
-Socialism,N,635,1.5061
+socialism,N,635,1.5061
 socialist,N,633,1.4731
 sociology,N,648,1.0546
 soft,A,239,1.9127
@@ -2194,7 +2194,7 @@ solicitor,N,549,1.3349
 solid,A,394,1.6437
 solid,N,447,0.6812
 solve,V,420,1.7193
-Somalia,N,637,0.0682
+somalia,N,637,0.0682
 some,F,264,3.2639
 somebody,F,292,1.8684
 somehow,F,342,1.8788
@@ -2210,12 +2210,12 @@ sort,V,359,1.6039
 sound,N,256,2.1825
 soup,N,232,1.3059
 south,N,370,1.6442
-South Africa,N,516,-1.5539
-South America,N,538,-1.5539
-South Korea,N,633,-1.5539
+south africa,N,516,-1.5539
+south america,N,538,-1.5539
+south korea,N,633,-1.5539
 sow,N,415,0.7014
 space,N,387,2.1286
-Spain,N,499,1.4937
+spain,N,499,1.4937
 sparrow,N,308,0.6448
 speak,V,260,2.5703
 speaker,N,420,1.4435
@@ -2227,7 +2227,7 @@ spell,N,305,1.2709
 spend,V,310,2.4492
 spider,N,254,0.8475
 spill,V,249,1.255
-Spiritualist,N,631,-0.0506
+spiritualist,N,631,-0.0506
 spit,V,288,1.1801
 spiteful,A,392,0.3034
 spitefulness,N,458,-0.6576
@@ -2240,7 +2240,7 @@ spraypainter,N,607,-1.5539
 sprint,V,454,0.4373
 spy,V,396,0.692
 squirrel,N,353,0.7885
-Sri Lanka,N,631,-1.5539
+sri lanka,N,631,-1.5539
 stack,V,409,1.0438
 staff,N,445,2.0804
 stag,N,460,0.7427
@@ -2294,7 +2294,7 @@ subtract,V,348,0.6042
 succeed,V,440,1.8216
 such,F,350,2.9745
 suck,V,216,1.5553
-Sudan,N,612,0.5798
+sudan,N,612,0.5798
 sudden,A,368,1.7207
 suddenly,ADV,370,2.2743
 suffocate,V,465,0.6916
@@ -2318,7 +2318,7 @@ swam,V,324,1.6699
 swan,N,295,0.8745
 swear,V,403,1.5076
 sweat,V,399,1.2228
-Sweden,N,538,1.3481
+sweden,N,538,1.3481
 sweep,V,288,1.7086
 sweeper,N,339,0.0682
 sweet,N,172,1.1274
@@ -2328,20 +2328,20 @@ swim,N,275,0.9646
 swimming,N,291,0.7806
 swing,V,237,1.7476
 switch,V,390,1.6393
-Switzerland,N,529,-1.5539
+switzerland,N,529,-1.5539
 sympathise,V,542,0.699
 table,N,185,2.3712
 tablet,N,368,1.0611
-Taiwan,N,630,0.525
+taiwan,N,630,0.525
 take,V,277,3.2827
 tale,N,266,1.5045
 talk,V,216,2.7081
 tall,A,266,1.8684
 tan,N,425,0.5391
-Tanganyika,N,639,-1.5539
+tanganyika,N,639,-1.5539
 tangerine,N,401,-0.7757
-Tanzania,N,641,0.42
-Taoism,N,652,-0.9586
+tanzania,N,641,0.42
+taoism,N,652,-0.9586
 tap,V,350,0.9725
 tap dance,V,381,-1.5539
 tardiness,N,595,-1.2218
@@ -2372,14 +2372,14 @@ tenet,N,632,0.3802
 terrible,A,366,1.8905
 test,N,341,1.9817
 test,V,366,1.7357
-Thailand,N,628,-1.5539
+thailand,N,628,-1.5539
 thank,V,291,2.0616
 thankful,A,379,0.616
 that,F,248,3.6641
 thatch,V,467,0.6866
 thaw,V,414,0.4795
 the,F,203,4.7772
-The Yemen,N,650,-1.5539
+the yemen,N,650,-1.5539
 their,F,295,3.4625
 theirs,F,302,1.2287
 them,F,266,3.3714
@@ -2414,9 +2414,9 @@ thrush,N,368,0.2095
 thump,V,350,0.8451
 thunder,V,314,0.7765
 thus,F,456,2.2549
-Tibet,N,622,-0.0223
+tibet,N,622,-0.0223
 tidy,V,323,0.9403
-Tierra del Fuego,N,639,-1.5539
+tierra del fuego,N,639,-1.5539
 tiger,N,331,1.0776
 tile,V,484,0.4771
 time,N,282,3.2955
@@ -2440,7 +2440,7 @@ tomorrow,F,256,1.7818
 too,F,310,3.0187
 top,N,228,2.237
 tortoise,N,331,0.7515
-Tory,N,600,1.1553
+tory,N,600,1.1553
 toughen,V,516,0.1271
 towards,F,376,2.4192
 town,N,310,2.3497
@@ -2464,14 +2464,14 @@ truth,N,318,2.1283
 truthful,A,351,0.5988
 truthfulness,N,409,-0.2147
 try,V,269,2.8689
-Tunisia,N,622,0.316
+tunisia,N,622,0.316
 tunnel,N,325,1.2357
-Turkey,N,540,0.985
+turkey,N,540,0.985
 turn,V,288,2.763
 turquoise,N,484,-0.1079
 tut,V,448,-0.4685
 tutor,N,540,1.4108
-TV,N,504,1.579
+tv,N,504,1.579
 twelve,NUM,301,1.8496
 twist,V,338,1.5898
 two,NUM,180,3.1372
@@ -2479,8 +2479,8 @@ type,N,460,2.1397
 type,V,489,1.2286
 typist,N,510,0.5798
 ugly,A,308,1.3955
-Ulster,N,598,0.8506
-Ulster Unionist,N,648,-1.5539
+ulster,N,598,0.8506
+ulster unionist,N,648,-1.5539
 ultimate,A,588,1.447
 unbreakable,A,484,-1.5539
 uncork,V,514,-0.4089
@@ -2494,8 +2494,8 @@ unfairness,N,439,0.1931
 unfortunately,ADV,454,1.647
 unharmonious,A,598,-1.5539
 unhealthy,A,467,0.6767
-Unionist,N,650,-0.1079
-United Reform,N,644,-1.5539
+unionist,N,650,-0.1079
+united reform,N,644,-1.5539
 unkind,A,331,0.6042
 unkindness,N,383,-1.5539
 unknown,A,396,1.5128
@@ -2514,10 +2514,10 @@ upset,A,290,1.2962
 upset,N,383,0.2385
 upset,V,329,1.3683
 upwards,F,333,1.2962
-Urdu,N,648,-0.0757
-Uruguay,N,621,0.0492
+urdu,N,648,-0.0757
+uruguay,N,621,0.0492
 us,F,227,2.9437
-USA,N,454,2.9886
+usa,N,454,2.9886
 use,V,323,2.0927
 used,A,316,1.3142
 usherette,N,476,-0.6576
@@ -2530,7 +2530,7 @@ vanity,N,501,0.8807
 various,A,463,2.1072
 vary,V,488,1.7515
 vault,V,473,0.5922
-Venezuela,N,631,0.3802
+venezuela,N,631,0.3802
 verbalise,V,628,-0.0518
 vermillion,N,588,-0.3248
 versify,V,635,-1.2218
@@ -2554,7 +2554,7 @@ wail,V,439,0.9725
 wait,V,299,2.5045
 waiter,N,417,1.3469
 waitress,N,407,1.037
-Wales,N,415,-1.5539
+wales,N,415,-1.5539
 walk,N,230,1.7317
 walkway,N,525,-1.5539
 wallaby,N,555,-0.3468
@@ -2596,11 +2596,11 @@ welder,N,570,0.0492
 well-being,N,510,-1.5539
 well,F,288,3.0425
 wellmannered,A,452,-1.5539
-Welsh,A,443,0.2253
-Welsh Nationalist,N,644,-1.5539
+welsh,A,443,0.2253
+welsh nationalist,N,644,-1.5539
 went,V,275,3.4617
-Wesleyan,N,592,-1.5539
-West Indies,N,581,-1.5539
+wesleyan,N,592,-1.5539
+west indies,N,581,-1.5539
 whale,N,368,1.046
 what,F,256,3.4471
 whatever,F,385,2.1572
@@ -2614,7 +2614,7 @@ wherever,F,432,1.2082
 whether,F,411,2.5237
 which,F,301,3.5353
 whichever,F,439,0.8299
-Whig,N,616,0.2095
+whig,N,616,0.2095
 while,F,336,2.658
 whilst,F,439,1.2925
 whine,V,390,0.8116
@@ -2684,12 +2684,12 @@ your,F,256,3.2084
 yours,F,267,1.6642
 yourself,F,331,2.134
 yourselves,F,350,0.9175
-Yugoslavia,N,588,0.8506
-Zaire,N,639,0.3909
-Zambia,N,637,0.4099
+yugoslavia,N,588,0.8506
+zaire,N,639,0.3909
+zambia,N,637,0.4099
 zealous,A,603,0.1089
 zebra,N,370,0.2786
-Zen,N,639,0.3385
-Zimbabwe,N,641,0.6609
-Zionism,N,648,0.179
+zen,N,639,0.3385
+zimbabwe,N,641,0.6609
+zionism,N,648,0.179
 zoology,N,605,0.1461
