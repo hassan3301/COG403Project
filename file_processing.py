@@ -23,14 +23,15 @@ brm_df = brm_df.loc[:,["Word",
                        "A.Mean.Sum", "A.SD.Sum", "A.Rat.Sum"]]
 brm_df['Word'] = brm_df['Word'].str.lower()
 
-babiness_df = pd.read_csv('babiness.csv',
-                          header=0)
-babiness_df = babiness_df.replace('', np.NaN)
-babiness_df = babiness_df.rename(columns={'word':'Word'})
-babiness_df = babiness_df.loc[:,["Word", "task", "rating", "lexicalCategory",
-                                 "phonemes", "totalMorphemes", "concreteness", "babyAVG"]]
-babiness_df = babiness_df.groupby('Word', as_index=False).mean()
-babiness_df['Word'] = babiness_df['Word'].str.lower()
+# Iconicity ratings for 3001 English words were collected by Perry et al. (2015) and Winter et al. (2017a). 
+
+iconicity_df = pd.read_csv('new_iconicity.csv',
+                           header=0)
+iconicity_df = iconicity_df.replace('', np.NaN)
+iconicity_df = iconicity_df.rename(columns={'word':'Word'})
+iconicity_df = iconicity_df.loc[:,["Word", "pos_new", "icon_eng", "freq_eng",]]
+# iconicity_df = iconicity_df.groupby('Word', as_index=False).mean()
+iconicity_df['Word'] = iconicity_df['Word'].str.lower()
 
 esm_df = pd.read_excel('ESM.xlsx')
 esm_df = esm_df.replace('', np.NaN)
@@ -45,9 +46,9 @@ AoA_df.to_csv(os.path.join(f_path, "AoA.csv"),
 brm_df.to_csv(os.path.join(f_path, "BRM.csv"),
               index = None,
               header=True)
-babiness_df.to_csv(os.path.join(f_path, "Iconicity.csv"),
-                   index = None,
-                   header=True)
+iconicity_df.to_csv(os.path.join(f_path, "Iconicity.csv"),
+                    index = None,
+                    header=True)
 esm_df.to_csv(os.path.join(f_path, "ESM.csv"), 
               index = None,
               header=True)
