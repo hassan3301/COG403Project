@@ -24,7 +24,9 @@ merge_df.to_csv(os.path.join(f_path, "merged_with_iconicity.csv"),
                 index = None,
                 header=True)
 
-merge_df = merge_df.loc[:, ~merge_df.columns.isin(['Word type', 'pos_new'])]
+merge_df = merge_df.loc[:, ~merge_df.columns.isin(['Word type', 'pos_new', 'Unknown',
+                                                   'V.SD.Sum', 'V.Rat.Sum', 'A.SD.Sum', 'A.Rat.Sum', 'Conc.SD',
+                                                   'freq_eng', 'Total'])]
 # merge_df = merge_df.set_index('Word', drop=True)
 merge_df = merge_df.drop_duplicates(subset=['Word'], keep='first')
 merge_df.to_csv(os.path.join(f_path, "merged_withoutstring.csv"),
